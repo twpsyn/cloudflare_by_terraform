@@ -1,4 +1,5 @@
 private/
+state.config
 
 ## START GITHUB recommended .gitignore for Terraform
 
